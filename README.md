@@ -7,7 +7,7 @@
 <h3>
   My name is Noah.
   I live in Denmark and i am a cybersecurity enthusiast.<br>
-  I work with hosting and security in Viral Group where i am partner.
+  I work @ Viral Media as a web nerd and problem solver.
 </h3>
 
 <h2>
