@@ -1,13 +1,5 @@
 ### Hello world 👋
 
-<h1>
- Who am i?
-</h1>
-
-<h3>
-  My name is Noah.
-</h3>
-
 <h2>
  Connect with me
 </h2>
