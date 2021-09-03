@@ -1,9 +1,10 @@
 ### Hello world 👋
 
 <h2>
- Connect with me
+ What i do:
 </h2>
 
+Software consultant and CEO @Herocode-io
 
 :globe_with_meridians: [Visit my personal website](https://www.noahbohme.com "Personal Website")
 
