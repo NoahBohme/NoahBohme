@@ -4,9 +4,7 @@
  What i do:
 </h2>
 
-Consultant @Herocode-io
-Head of Cloud @Employ-tech
-Hosting partner @ViralHosting
+Servers and hosting | Security | Project Consulting
 
 
 :globe_with_meridians: [Visit my personal website](https://www.noahbohme.com "Personal Website")
