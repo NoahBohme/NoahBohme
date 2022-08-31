@@ -13,3 +13,5 @@ Servers and hosting | Security | Project Consulting
 
 :mailbox: [Shoot me an email](mailto:noah@noahbohme.com "Email")
 
+![](https://github-readme-stats.vercel.app/api?username=NoahBohme&show_icons=true)
+
